@@ -1,0 +1,14 @@
+- title: Om
+  url: /about/
+- title: Blogg
+  sublinks:
+    - title: Senaste
+      url: /posts/
+    - title: Kategorier
+      url: /categories/
+    - title: År
+      url: /years/
+    - title: Taggar
+      url: /tags/
+- title: Docs
+  url: /docs/
